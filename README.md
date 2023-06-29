@@ -1,2 +1,3 @@
-# cressmars-runtime
-The runtime of CReSSMars
+# CReSSMars runtime
+
+Runtime of the CReSSMars Model
